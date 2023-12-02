@@ -1,1 +1,3 @@
 # mkdocs-blog
+
+init
